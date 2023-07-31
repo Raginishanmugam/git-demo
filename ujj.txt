@@ -1,0 +1,5 @@
+db.teacher.insertOne({name:"vaishu",rollno:27328,mark:67})
+db.teacher.insertOne({name:"tamil",rollno:27329,mark:77})
+db.teacher.insertOne({name:"malathy",rollno:27327,mark:67})
+db.teacher.insertOne({name:"devi",rollno:27326,mark:47})
+db.teacher.insertOne
